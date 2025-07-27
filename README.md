@@ -1,9 +1,14 @@
 ## 👋 Hi! I'm Laura (she/her/hers)
 
 🎓 M.S. (May 2025) and B.S. (May 2024) in Chemical Engineering from Arizona State University 🔱
+
 💡 Passionate about sustainable engineering, process optimization, computational modeling, and data science  
+
 🧪 Background in ML, NLP, LCA, techno-economic assessments, and process simulation (ChemCAD)
+
 🛠️ Tools: Python, MATLAB, VASP/DFT (HPC), OpenLCA, ChemCAD, Microsoft Excel
+
+---
 
 ## 🔬 Current Interests
 - Applying NLP and machine learning to energy and sustainability literature
